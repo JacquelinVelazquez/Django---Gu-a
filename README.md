@@ -1,12 +1,11 @@
 # Guía (Django + MariaDB con Laragon)
 
-###
-Requisitos técnicos (lo mínimo para que funcione):
--Python instalado y pip
--Django instalado dentro de un entorno virtual (venv)
--Laragon levantando BD (MariaDB 11.8.6 por puerto 3306)
--Editor (VS Code)
-###
+## Requisitos técnicos (lo mínimo para que funcione)
+
+- Python instalado y pip  
+- Django instalado dentro de un entorno virtual (venv)  
+- Laragon levantando BD (MariaDB 11.8.6 por puerto 3306)  
+- Editor (VS Code)
 
 ###
 0) Prender MySQL/MariaDB (Laragon)
