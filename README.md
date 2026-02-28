@@ -1,6 +1,6 @@
 # Guía (Django + MariaDB con Laragon)
 
-```text
+```
 Proceso completo de creación de una aplicación web utilizando Django como framework backend y MariaDB como base de datos, ejecutada en un entorno local con Laragon. Se desarrolló una aplicación llamada `members` que permite gestionar una entidad llamada `Article`, incluyendo la creación, visualización, edición y almacenamiento de artículos en la base de datos. Aquí explico paso a paso cómo configurar el ev, conectar Django con MariaDB, crear la estructura del proyecto, aplicar migraciones y construir las vistas, formularios y templates necesarios para que el sistema funcione correctamente. 
 ```
 ## Requisitos técnicos (lo mínimo para que funcione)
